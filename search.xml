@@ -4,27 +4,6 @@
   
     
     <entry>
-      <title>test post</title>
-      <link href="/2024/11/15/test-post/"/>
-      <url>/2024/11/15/test-post/</url>
-      
-        <content type="html"><![CDATA[<p><strong>This is a test post</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br></pre></td></tr></table></figure><p>md我这个小废物也是有自己的博客了<br>泪目😭</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> testTag </tag>
-            
-            <tag> testTag2 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2024/11/15/hello-world/"/>
       <url>/2024/11/15/hello-world/</url>
